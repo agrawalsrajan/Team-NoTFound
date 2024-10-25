@@ -1,4 +1,4 @@
-# Team-NoTFound
+# MARKER-LESS MOTION CAPTURE by Team-NoTFound
 Problem Statement: 
 Traditional body tracking systems rely on costly markers and specialized hardware, 
 limiting accessibility. There is a growing need for a marker-less, AI-driven solution to 
